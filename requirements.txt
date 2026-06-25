@@ -1,0 +1,9 @@
+torch~=2.2.2
+numpy~=1.26.4
+pillow~=10.2.0
+matplotlib~=3.10.9
+opencv-python~=4.13.0.92
+facenet-pytorch~=2.5.3
+torchvision~=0.17.2
+tqdm~=4.67.3
+scikit-learn~=1.7.2
