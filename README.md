@@ -35,11 +35,6 @@ levels (depths) of neural network output.
 The repository is structured as follows:
 ```text
 mlndl-gradface
-│
-├
-└
-─
-│
 ├ README.md
 ├ facenet - experimental notebooks and mockups for facenet dnn
 ├ insightface - experimental notebooks and mockups for insightface dnn
@@ -103,6 +98,7 @@ The final heatmap represents image regions that have the greatest contribution t
 between the two facial embeddings.
 
 In this experiment, Grad-CAM is applied to a number of different layer outputs:
+
 FaceNet:
 - repeat_1
 - repeat_2
