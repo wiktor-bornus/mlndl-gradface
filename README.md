@@ -4,7 +4,6 @@
 ### Author: Wiktor Bornus
 
 ## 1. Introduction
-# 1. Introduction
 
 Deep learning-based face recognition systems have become one of the most widely used biometric technologies, enabling 
 applications such as identity verification, access control, surveillance, and authentication systems. Modern face 
@@ -22,6 +21,9 @@ Two state-of-the-art face recognition architectures are investigated in this pro
 
 The results of this analysis provide insights into the internal behavior of deep face recognition models and demonstrate 
 how explainability methods can be used to improve understanding and evaluation of biometric systems.
+
+![ex_pic](./facenet/ex.png)
+
 ## 2. Project Goals
 The main objective of this project is to evaluate and compare how different face recognition models focus on facial 
 regions during biometric identification. Using Grad-CAM visualizations, the project aims to analyze whether the models 
